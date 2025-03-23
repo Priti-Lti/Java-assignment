@@ -1,5 +1,4 @@
 ```sequenceDiagram
-sequenceDiagram
 participant User
 participant UserController
 participant UserService
